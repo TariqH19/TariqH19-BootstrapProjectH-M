@@ -1,0 +1,22 @@
+$footer_colour: rgb(182, 182, 182);
+$magazine_colour: #ffeecb;
+$green_bg: #63786a;
+$body_colour: #fcf7f7;
+
+footer {
+	background: $footer_colour;
+}
+
+.section_magazine {
+	background: $magazine_colour;
+}
+
+.green_bg {
+	background: $green_bg;
+}
+
+.body {
+	background: $body_colour;
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap";
