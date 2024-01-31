@@ -1,5 +1,5 @@
 
-# Project Title
+# H&M recreation
 
 A Recreation of the H&M website using bootstrap
 
